@@ -1,0 +1,3 @@
+Transporte: 500
+Alimentação: 800
+Hospedagem: 1200

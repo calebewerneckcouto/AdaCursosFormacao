@@ -1,0 +1,3 @@
+Receita: 10000
+Despesa: 4500
+Lucro: 5500
